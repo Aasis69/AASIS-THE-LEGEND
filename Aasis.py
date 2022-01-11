@@ -60,7 +60,7 @@ logo = """
 \033[1;96mYoutube \033[1;93m: \033[1;92m AMV EDITZ
 \033[1;96mFacebook  \033[1;93m: \033[1;92m ITX.AASIS.69
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Aasis69
-\033[1;96mPLEASE USE NEW ID FOR LOGIN
+\033[1;96mPLEASE USE NEW ID FOR LOGIN \033
 \033[1;91m======================================="""
 
 def tik():
